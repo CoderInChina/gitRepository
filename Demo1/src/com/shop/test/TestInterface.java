@@ -5,5 +5,5 @@ public interface TestInterface {
 	void update();
 	void delete();
 	void select();
-	void lisi();
+	void lisi1();
 }
